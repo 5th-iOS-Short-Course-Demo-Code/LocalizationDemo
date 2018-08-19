@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Chhaileng Peng on 8/19/18.
+  Copyright © 2018 Chhaileng Peng. All rights reserved.
+*/
+
+"welcome" = "សូម​ស្វា​គមន៍";
+"setting" = "ការ​កំណត់​";
+"detail" = "លំអិត​បន្ថែម";
+"Change Language" = "ផ្លាស់​ប្តូរភាសា";

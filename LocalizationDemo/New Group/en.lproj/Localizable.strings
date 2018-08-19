@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Chhaileng Peng on 8/19/18.
+  Copyright © 2018 Chhaileng Peng. All rights reserved.
+*/
+
+"welcome" = "Welcome";
+"setting" = "Setting";
+"detail" = "Detail";
+"Change Language" = "Change Language";
